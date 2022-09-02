@@ -112,6 +112,8 @@ sponsors:
     level: platinum
   - id: emnify
     level: gold
+  - id: fiberplane
+    level: platinum
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
