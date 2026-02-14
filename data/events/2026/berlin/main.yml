@@ -57,7 +57,7 @@ event_social_mastodon: "https://social.devopsdays.org/@berlin" # Change this to 
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: registration
  # - name: program
   - name: location
